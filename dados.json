@@ -1,0 +1,25 @@
+{
+  "titulo": "Dashboard de Operações",
+  "periodo": "Dia 23/03/2026",
+  "atualizado_em": "2026-03-23",
+
+  "grafico1": {
+    "titulo": "Entregas / Pedidos por Setor",
+    "labels": ["Setor A", "Setor B", "Setor C", "Setor D", "Setor E"],
+    "valores": [142, 98, 175, 63, 120]
+  },
+
+  "grafico2": {
+    "titulo": "Estoque / Inventário por Setor (unidades)",
+    "labels": ["Setor A", "Setor B", "Setor C", "Setor D", "Setor E"],
+    "valores": [520, 310, 890, 215, 670]
+  },
+
+  "grafico3": {
+    "titulo": "Vendas por Vendedor",
+    "labels": ["Ana", "Bruno", "Carlos", "Diana", "Eduardo"],
+    "valores": [38, 52, 29, 61, 44]
+  },
+
+  "analise": "Setor C lidera em entregas (175) e estoque (890). Setor D apresenta o menor volume de pedidos — avaliar possível gargalo ou baixa demanda. No time comercial, Diana se destaca com 61 vendas no dia, seguida de Bruno (52). Carlos registra o menor desempenho e pode precisar de suporte."
+}
